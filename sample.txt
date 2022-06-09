@@ -1,0 +1,1 @@
+This is a new sample file created to upload into remote git repository
